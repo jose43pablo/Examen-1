@@ -1,8 +1,8 @@
 # Examén #1 - BUG372 - 🐛
 
-> __Nombre:__ 👉 *(Cambiar por su nombre aqui)*
+> __Nombre:__ 👉 *(José Pablo González Barba)*
 >
-> __Apodo:__ 👉 *(Escribir su sobrenombre)*
+> __Apodo:__ 👉 *(Ciberseguridad)*
 >
 >
 ---
@@ -36,3 +36,4 @@
 ### Representación gráfica de exámen:
 
 ![Flowchart](https://i.postimg.cc/FsJp36xG/flowchart.jpg)
+
